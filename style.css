@@ -8,3 +8,10 @@ header {
 footer {
   background-color: lightcoral;
 }
+
+.odd {
+  background-color: bisque;
+}
+.even {
+  background-color: azure;
+}
